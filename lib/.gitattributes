@@ -1,7 +1,15 @@
+build/ linguist-vendored
+.dart_tool/ linguist-vendored
+.flutter-plugins linguist-vendored
+.flutter-plugins-dependencies linguist-vendored
+.packages linguist-vendored
+.pub-cache/ linguist-vendored
+.idea/ linguist-vendored
 android/** linguist-vendored
 ios/** linguist-vendored
 linux/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
 web/** linguist-vendored
+
 *.dart linguist-language=Dart
