@@ -44,11 +44,3 @@ Here are some screenshots of the app showcasing different sections:
 - **YouTube API** – For displaying videos on the app.
 
 ---
-
-## 📜 How to Run the App
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/MohammadYahfoufi/FlutterPortfolio.git
-   cd FlutterPortfolio
