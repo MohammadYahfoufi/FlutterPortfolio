@@ -4,9 +4,9 @@ Welcome to my Flutter portfolio app! This app showcases my skills in Flutter and
 
 ## **📱 App Demo**
 
-Watch the video below to see the app in action:
+Click the link below to view the demo video:
 
-[App Demo](assets/videos/portfolio.mp4)
+[View App Demo](assets/portfolio.mp4)
 
 ---
 
