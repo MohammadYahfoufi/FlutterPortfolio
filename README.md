@@ -1,34 +1,54 @@
-# Flutter Portfolio App
+# 💼 Flutter Portfolio
 
-This is a Flutter portfolio app where I showcase my skills and experience in mobile development, game development, web development, and more.
+A showcase of my work and skills in Flutter development. This repository demonstrates the mobile and web applications I've created using Flutter and various related technologies.
 
-## Screenshots
+---
 
-Here are some screenshots from my app:
+## 🚀 Demo Video
 
-### Home Screen
-![Home Screen](assets/Home.jpg)
+Watch the video below to see a demo of my Flutter portfolio in action, showcasing different pages and animations:
 
-### About Me Screen
-![About Me](assets/AboutLanguages.jpg)
+[Portfolio Demo](https://youtube.com/shorts/eUSn0WTTZnQ?feature=share)
 
-### Skills Screen
-![Skills](assets/AboutSkills.jpg)
+---
 
-### Contact Screen
-![Contact](assets/Contact.jpg)
+## 📸 Screenshots
 
-### Services Screen
-![Services](assets/Services.jpg)
+Here are some screenshots of the app showcasing different sections:
 
-## Features
+| Home Screen | About Languages | About Skills |
+|-------------|-----------------|--------------|
+| ![Home](assets/Home.jpg) | ![Languages](assets/AboutLanguages.jpg) | ![Skills](assets/AboutSkills.jpg) |
 
-- **About Me**: Showcases my journey and skill set.
-- **Services**: Highlights the services I offer including mobile app development, game development, web development, and more.
-- **Contact**: Provides a contact form to get in touch with me.
-  
-## Installation
+| Services | Contact |
+|----------|---------|
+| ![Services](assets/Services.jpg) | ![Contact](assets/Contact.jpg) |
+
+---
+
+## ✨ Features
+
+- **Interactive UI** with custom animations
+- **Dynamic service carousel** showcasing various skills and services
+- **Contact form** that allows users to send messages directly
+- **Responsive design** that works well on mobile and web platforms
+- **Video showcase** demonstrating the app’s functionality
+
+---
+
+## 📦 Built With
+
+- **Flutter** – Framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart** – Programming language used for building the Flutter app.
+- **Firebase** – Backend services (optional for some features).
+- **YouTube API** – For displaying videos on the app.
+
+---
+
+## 📜 How to Run the App
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/MohammadYahfoufi/FlutterPortfolio.git
+   cd FlutterPortfolio
