@@ -1,36 +1,33 @@
-# **Flutter Portfolio**
+# Flutter Portfolio App
 
-Welcome to my Flutter portfolio app! This app showcases my skills in Flutter and mobile app development.
+This is a Flutter portfolio app where I showcase my skills and experience in mobile development, game development, web development, and more.
 
-## **📱 App Demo**
+## Screenshots
 
-Click the link below to download and view the demo video:
-[Download and View App Demo](assets/portfolio.mp4)
+Here are some screenshots from my app:
 
-Alternatively, you can manually access the video by downloading it from the `assets` folder in the repository.
+### Home Screen
+![Home Screen](assets/Home.jpg)
 
----
+### About Me Screen
+![About Me](assets/AboutLanguages.jpg)
 
-## **🚀 Features**
+### Skills Screen
+![Skills](assets/AboutSkills.jpg)
 
-- **Services**: View a variety of services such as mobile app development, game development, and web development.
-- **About Me**: Learn more about me and my skills in mobile development, game development, and more.
-- **Contact**: Contact me for collaborations, projects, or just a conversation.
-- **Interactive UI**: Experience a dynamic and interactive UI designed to showcase my work.
+### Contact Screen
+![Contact](assets/Contact.jpg)
 
----
+### Services Screen
+![Services](assets/Services.jpg)
 
-## **🛠️ Technologies Used**
+## Features
 
-- **Flutter**: Used to build the mobile app.
-- **Dart**: The programming language used for app development.
-- **Firebase**: For backend support and authentication (if applicable).
-
----
-
-## **📦 Installation**
-
-Follow these steps to run the project on your local machine:
+- **About Me**: Showcases my journey and skill set.
+- **Services**: Highlights the services I offer including mobile app development, game development, web development, and more.
+- **Contact**: Provides a contact form to get in touch with me.
+  
+## Installation
 
 1. Clone the repository:
    ```bash
